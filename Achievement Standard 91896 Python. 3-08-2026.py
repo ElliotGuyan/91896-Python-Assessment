@@ -2,9 +2,9 @@
 Patrol infringement management programme.
 
 The purpose of this programme is to support patrol officers in their work. 
-This is done by giving the user inputting the information from the driver who commited a traffick violation.
+This is done by giving the user inputting the information from the driver who committed a traffic violation.
 The programme will then return a ticket for the violation, and store the data for later use.
-This programme has multiple different uses, it can record speeding offences, view offences, search offences, and display the patrol summary.
+This programme has multiple different uses; it can record speeding offences, view offences, search offences, and display the patrol summary.
 
 
 Elliot Guyan
@@ -13,7 +13,7 @@ Achievement standard 91896
 '''
 
 '''
-Things do to, ideas, and trialing.
+Things to do, ideas, and trialling.
 
 Navigation:
 - Record speeding offence
@@ -23,9 +23,9 @@ Navigation:
 
 Record a speeding offence
 - Driver's full name: Must be at least 2 names, exclude numbers, and all characters except 'space' '
-- Driver's license number: Two capatalised letters followed by 6 numbers eg (AB123456)
+- Driver's license number: Two capitalised letters followed by 6 numbers eg (AB123456)
 - Posted speed limit: increments of 10 from 30-110
-- Driver's recorded speed: Any number above 31, must be greater than the speed limit
+- Driver's recorded speed: Any number above 31 must be greater than the speed limit
 
 Password
 - Add a password for information security. Ask for badge number and password.
