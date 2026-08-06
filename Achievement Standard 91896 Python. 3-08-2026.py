@@ -32,5 +32,18 @@ Password
 
 
 '''
+passwords = {
+    "pin": "12345",
+    "badge_number": "LI123"
+    }
 
+def login_confirmation(passwords):
+    '''Checks if the user's password and badge number are real, 
+    allowing the safety of citizen information and privacy.'''
+    user = input("Please enter your badge number: ")
+    pin = input("Please enter your pin: ")
+    if user == passwords["username"] and pin == passwords["pin"]:
+        return True
+    else:
+        return False 
 
